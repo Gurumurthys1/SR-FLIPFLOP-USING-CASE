@@ -73,6 +73,9 @@ endmodule
 **TIMING DIGRAMS FOR FLIP FLOPS**
 ![output-2](https://github.com/Gurumurthys1/SR-FLIPFLOP-USING-CASE/assets/163425568/adcaf0d1-abba-4442-9399-8ecd2ab4db1b)
 
+**RTL LOGIC FOR FLIPFLOP**
+![RTL](https://github.com/Gurumurthys1/SR-FLIPFLOP-USING-CASE/assets/163425568/66c5fd90-6787-46a3-9790-4ef45c0b44f3)
+
 
 **RESULTS**
 To sucessfully verified SR flipflop using verilog and validating their functionality using their functional tables
