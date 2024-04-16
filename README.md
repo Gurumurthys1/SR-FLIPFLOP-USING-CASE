@@ -75,4 +75,4 @@ endmodule
 
 
 **RESULTS**
-To sucessfully implement  SR flipflop using verilog and validating their functionality using their functional tables
+To sucessfully verified SR flipflop using verilog and validating their functionality using their functional tables
