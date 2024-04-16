@@ -45,10 +45,10 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 5.For different input combinations generate the timing diagram.
 
 **PROGRAM**
-```
 Program for flipflops and verify its truth table in quartus using Verilog programming. 
 Developed by:Gurumurthy S<br>
 RegisterNumber:212223230066
+```
 module SR_Flipflop_using_case(q, q_bar, s,r, clk, reset);//SR Flip Flop Behavioral Level using ‘case’ 
   input s,r,clk, reset;
   output reg q;
